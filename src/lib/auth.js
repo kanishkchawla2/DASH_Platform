@@ -5,7 +5,12 @@ import { cookies } from 'next/headers';
 import { nanoid } from 'nanoid';
 import { getUserByEmail, getUserById } from './db';
 
+if (process.env.NEXTAUTH_URL && !/^https?:\/\//.test(process.env.NEXTAUTH_URL)) {
+  process.env.NEXTAUTH_URL = 'https://' + process.env.NEXTAUTH_URL;
+}
+
 export const { handlers, signIn, signOut, auth } = NextAuth({
+  trustHost: true,
   providers: [
     Credentials({
       name: 'credentials',
