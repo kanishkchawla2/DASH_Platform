@@ -1,7 +1,19 @@
 import fs from 'fs';
 import path from 'path';
 
-const RESEARCH_PACKS_DIR = path.resolve(process.cwd(), '..', 'site', 'public', 'research-packs');
+function getResearchPacksDir() {
+  const candidates = [
+    path.resolve(process.cwd(), 'site', 'public', 'research-packs'),
+    path.resolve(process.cwd(), '..', 'site', 'public', 'research-packs'),
+    path.resolve(process.cwd(), '..', '..', 'site', 'public', 'research-packs'),
+  ];
+  for (const dir of candidates) {
+    try { if (fs.statSync(dir).isDirectory()) return dir; } catch {}
+  }
+  return candidates[0];
+}
+
+const RESEARCH_PACKS_DIR = getResearchPacksDir();
 
 export async function GET(req, { params }) {
   const segments = await params;
