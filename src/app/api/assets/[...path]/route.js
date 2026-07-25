@@ -6,6 +6,7 @@ function getResearchPacksDir() {
     path.resolve(process.cwd(), 'site', 'public', 'research-packs'),
     path.resolve(process.cwd(), '..', 'site', 'public', 'research-packs'),
     path.resolve(process.cwd(), '..', '..', 'site', 'public', 'research-packs'),
+    path.resolve(process.cwd(), 'public', 'research-packs'),
   ];
   for (const dir of candidates) {
     try { if (fs.statSync(dir).isDirectory()) return dir; } catch {}
