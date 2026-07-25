@@ -1,4 +1,4 @@
-import { auth } from '@/lib/auth';
+import { getUserId } from '@/lib/auth';
 import { createRequest, getRequestsByUser, getUsage, incrementUsage, getUserById } from '@/lib/db';
 import { nanoid } from 'nanoid';
 import { sendNotification } from '@/lib/mail';
@@ -6,19 +6,13 @@ import { sendNotification } from '@/lib/mail';
 const FREE_REPORT_LIMIT = 5;
 
 export async function GET() {
-  const session = await auth();
-  if (!session?.user?.id) {
-    return Response.json({ error: 'Unauthorized' }, { status: 401 });
-  }
-  const requests = getRequestsByUser(session.user.id);
+  const { userId } = await getUserId();
+  const requests = getRequestsByUser(userId);
   return Response.json({ requests });
 }
 
 export async function POST(req) {
-  const session = await auth();
-  if (!session?.user?.id) {
-    return Response.json({ error: 'Unauthorized' }, { status: 401 });
-  }
+  const { userId, email, name } = await getUserId();
 
   const { symbol, notes = '' } = await req.json();
   if (!symbol || typeof symbol !== 'string') {
@@ -30,7 +24,7 @@ export async function POST(req) {
     return Response.json({ error: 'Invalid symbol' }, { status: 400 });
   }
 
-  const used = getUsage(session.user.id);
+  const used = getUsage(userId);
   if (used >= FREE_REPORT_LIMIT) {
     return Response.json({
       error: `You've used all ${FREE_REPORT_LIMIT} free reports. Please subscribe to generate more.`,
@@ -41,18 +35,18 @@ export async function POST(req) {
   const id = nanoid(12);
   createRequest({
     id,
-    userId: session.user.id,
+    userId,
     symbol: cleanSymbol,
     companyName: '',
     notes,
   });
 
-  incrementUsage(session.user.id);
+  incrementUsage(userId);
 
   sendNotification({
     symbol: cleanSymbol,
-    userEmail: session.user.email,
-    userName: session.user.name,
+    userEmail: email,
+    userName: name,
     notes,
     requestId: id,
   }).catch(err => console.error('[Mail] Failed:', err.message));

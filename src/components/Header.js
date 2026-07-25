@@ -1,11 +1,8 @@
 'use client';
 
 import Link from 'next/link';
-import { useSession, signOut } from 'next-auth/react';
 
 export default function Header() {
-  const { data: session } = useSession();
-
   return (
     <header className="sticky top-0 z-50 border-b border-slate-700/50 bg-slate-900/95 backdrop-blur">
       <div className="mx-auto flex h-14 max-w-7xl items-center justify-between px-4 sm:px-6">
@@ -17,27 +14,12 @@ export default function Header() {
           </Link>
           <nav className="hidden items-center gap-1 sm:flex">
             <Link href="/dashboard" className="rounded-md px-3 py-1.5 text-sm text-slate-300 transition hover:bg-slate-800 hover:text-white">Dashboard</Link>
-            <Link href="/pricing" className="rounded-md px-3 py-1.5 text-sm text-slate-300 transition hover:bg-slate-800 hover:text-white">Pricing</Link>
           </nav>
         </div>
 
-        <div className="flex items-center gap-3">
-          {session ? (
-            <>
-              <span className="hidden text-sm text-slate-400 sm:inline">{session.user.email}</span>
-              <Link href="/dashboard" className="rounded-lg bg-cyan-500 px-3 py-1.5 text-sm font-semibold text-white transition hover:bg-cyan-400">
-                Dashboard
-              </Link>
-              <button onClick={() => signOut()} className="text-sm text-slate-400 transition hover:text-white">
-                Logout
-              </button>
-            </>
-          ) : (
-            <Link href="/login" className="rounded-lg bg-cyan-500 px-3 py-1.5 text-sm font-semibold text-white transition hover:bg-cyan-400">
-              Sign In
-            </Link>
-          )}
-        </div>
+        <Link href="/login" className="rounded-lg bg-cyan-500 px-3 py-1.5 text-sm font-semibold text-white transition hover:bg-cyan-400">
+          Sign In
+        </Link>
       </div>
     </header>
   );

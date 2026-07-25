@@ -23,7 +23,7 @@ export default function LandingPage() {
             </p>
             <div className="mt-10 flex items-center justify-center gap-4">
               <Link
-                href="/login"
+                href="/dashboard"
                 className="rounded-lg bg-cyan-500 px-6 py-3 text-sm font-bold text-white transition hover:bg-cyan-400"
               >
                 Get Started Free

@@ -1,19 +1,16 @@
-import { auth } from '@/lib/auth';
-import { getRequestById, getAllRequests } from '@/lib/db';
+import { getUserId } from '@/lib/auth';
+import { getRequestById } from '@/lib/db';
 
 export async function GET(req, { params }) {
   const { id } = await params;
-  const session = await auth();
-  if (!session?.user?.id) {
-    return Response.json({ error: 'Unauthorized' }, { status: 401 });
-  }
+  const { userId } = await getUserId();
 
   const request = getRequestById(id);
   if (!request) {
     return Response.json({ error: 'Request not found' }, { status: 404 });
   }
 
-  if (request.user_id !== session.user.id && session.user.role !== 'admin') {
+  if (request.user_id !== userId) {
     return Response.json({ error: 'Forbidden' }, { status: 403 });
   }
 

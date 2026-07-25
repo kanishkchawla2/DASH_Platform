@@ -3,6 +3,7 @@
 import { useState } from 'react';
 import { signIn } from 'next-auth/react';
 import { useRouter } from 'next/navigation';
+import Link from 'next/link';
 
 export default function LoginPage() {
   const router = useRouter();
@@ -108,6 +109,12 @@ export default function LoginPage() {
               {isRegister ? 'Sign In' : 'Register'}
             </button>
           </p>
+
+          <div className="mt-4 border-t border-slate-800 pt-4 text-center">
+            <Link href="/dashboard" className="text-sm text-slate-500 transition hover:text-slate-300">
+              Continue as Guest →
+            </Link>
+          </div>
         </div>
       </div>
     </div>

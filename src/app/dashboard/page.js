@@ -1,15 +1,10 @@
 'use client';
 
 import { useState, useEffect, useCallback } from 'react';
-import { useSession } from 'next-auth/react';
-import { redirect, useRouter } from 'next/navigation';
 
 const FREE_LIMIT = 5;
 
 export default function DashboardPage() {
-  const { data: session, status } = useSession();
-  const router = useRouter();
-
   const [index, setIndex] = useState([]);
   const [packs, setPacks] = useState({});
   const [selected, setSelected] = useState(null);
@@ -30,9 +25,6 @@ export default function DashboardPage() {
   const [spotlightQuery, setSpotlightQuery] = useState('');
 
   useEffect(() => {
-    if (status === 'unauthenticated') redirect('/login');
-    if (status !== 'authenticated') return;
-
     async function init() {
       try {
         const [idxRes, reqRes, usageRes] = await Promise.all([
@@ -59,7 +51,7 @@ export default function DashboardPage() {
       }
     }
     init();
-  }, [status]);
+  }, []);
 
   const toggleWatchlist = useCallback((symbol) => {
     setWatchlist(prev => {
@@ -134,7 +126,7 @@ export default function DashboardPage() {
     return () => window.removeEventListener('keydown', handler);
   }, []);
 
-  if (status === 'loading' || loading) {
+  if (loading) {
     return <div className="flex h-64 items-center justify-center text-slate-500">Loading workspace...</div>;
   }
 

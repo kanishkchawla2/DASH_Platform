@@ -1,6 +1,8 @@
 import NextAuth from 'next-auth';
 import Credentials from 'next-auth/providers/credentials';
 import bcrypt from 'bcryptjs';
+import { cookies } from 'next/headers';
+import { nanoid } from 'nanoid';
 import { getUserByEmail, getUserById } from './db';
 
 export const { handlers, signIn, signOut, auth } = NextAuth({
@@ -50,3 +52,23 @@ export const { handlers, signIn, signOut, auth } = NextAuth({
     strategy: 'jwt',
   },
 });
+
+export async function getUserId() {
+  const session = await auth();
+  if (session?.user?.id) {
+    return { userId: session.user.id, email: session.user.email, name: session.user.name };
+  }
+
+  const cookieStore = await cookies();
+  let guestId = cookieStore.get('guest_id')?.value;
+  if (!guestId) {
+    guestId = nanoid(16);
+    cookieStore.set('guest_id', guestId, {
+      httpOnly: true,
+      secure: process.env.NODE_ENV === 'production',
+      sameSite: 'lax',
+      maxAge: 60 * 60 * 24 * 365,
+    });
+  }
+  return { userId: guestId, email: null, name: 'Guest' };
+}
