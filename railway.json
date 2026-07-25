@@ -1,0 +1,6 @@
+{
+  "build": {
+    "builder": "NIXPACKS",
+    "buildCommand": "node scripts/copy-packs.cjs && npx next build"
+  }
+}
