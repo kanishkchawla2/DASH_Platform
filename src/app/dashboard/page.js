@@ -25,32 +25,38 @@ export default function DashboardPage() {
   const [spotlightQuery, setSpotlightQuery] = useState('');
 
   useEffect(() => {
-    async function init() {
+    async function loadIndex() {
       try {
-        const [idxRes, reqRes, usageRes] = await Promise.all([
-          fetch('/research-packs/stocks.index.json'),
+        const res = await fetch('/research-packs/stocks.index.json');
+        const idx = await res.json();
+        setIndex(idx.packs || []);
+      } catch (err) {
+        console.error('Failed to load index:', err);
+      }
+    }
+    async function loadRequests() {
+      try {
+        const [reqRes, usageRes] = await Promise.all([
           fetch('/api/requests'),
           fetch('/api/requests/usage'),
         ]);
-
-        const idx = await idxRes.json();
         const reqData = await reqRes.json();
         let usageData = 0;
         try { const u = await usageRes.json(); usageData = u.count || 0; } catch {}
-
-        setIndex(idx.packs || []);
         setRequests(reqData.requests || []);
         setUsage(usageData);
-
-        const wl = JSON.parse(localStorage.getItem('dash_watchlist') || '[]');
-        setWatchlist(wl);
       } catch (err) {
-        console.error('Init error:', err);
-      } finally {
-        setLoading(false);
+        console.error('Failed to load requests:', err);
       }
     }
-    init();
+    Promise.all([
+      loadIndex(),
+      loadRequests(),
+    ]).finally(() => {
+      const wl = JSON.parse(localStorage.getItem('dash_watchlist') || '[]');
+      setWatchlist(wl);
+      setLoading(false);
+    });
   }, []);
 
   const toggleWatchlist = useCallback((symbol) => {
