@@ -1,0 +1,867 @@
+{
+  "packs": [
+    {
+      "symbol": "FOSECOIND",
+      "companyName": "Foseco India Limited",
+      "brandName": "Foseco India",
+      "period": "Q1 FY27 / FY2025",
+      "slug": "FOSECOIND",
+      "updatedAt": "2026-07-22",
+      "summary": "90-year-old foundry consumables franchise: standalone revenue Rs. 604 cr, 20.3% EBITDA margin, near-debt-free balance sheet with Rs. 1,032 cr reserves. Transformative acquisition of 75% of Morganite Crucible (India) Limited adds crucible product line. Consolidated Q1 revenue Rs. 202 cr (+36% YoY). Includes competitive moat analysis, peer benchmarking, and relative valuation."
+    },
+    {
+      "symbol": "HAL",
+      "companyName": "Hindustan Aeronautics Limited",
+      "brandName": "Hindustan Aeronautics",
+      "period": "Q4 FY26 / FY26",
+      "slug": "HAL",
+      "updatedAt": "2026-07-22",
+      "summary": "India's monopoly aerospace champion: Rs. 2.55 lakh Cr order book (+34% YoY), 30% EBITDA margin, Rs. 9,076 Cr PAT (+9%), zero debt, LCA Mk-1A delivery inflection targeting ~20 aircraft in FY27, HTT-40 ramp, Safran LEAP civil aerospace entry, and Rs. 12,000 Cr capex plan. Includes competitive moat analysis, peer benchmarking (BEL/BDL/GRSE/MIDHANI), and relative valuation showing 52% P/E discount to defence PSU peers."
+    },
+    {
+      "symbol": "SENCO",
+      "companyName": "Senco Gold Limited",
+      "brandName": "Senco Gold & Diamonds",
+      "period": "Q4 FY26 / FY26",
+      "slug": "SENCO",
+      "updatedAt": "2026-07-21",
+      "summary": "87-year legacy jewellery retailer: FY26 consolidated revenue Rs. 8,430 Cr (+33%), EBITDA Rs. 969 Cr (+164%), PAT Rs. 574 Cr (+261%), 201 showrooms across 130+ cities, 35% Q4 SSSG, ROE 25.7%, and pan-India expansion driving a multi-brand jewellery story. Includes competitive moat analysis, peer benchmarking, and relative valuation."
+    },
+    {
+      "symbol": "RITCO",
+      "companyName": "Ritco Logistics Limited",
+      "brandName": "Ritco Logistics",
+      "period": "Q4 FY26 / FY26",
+      "slug": "RITCO",
+      "updatedAt": "2026-07-17",
+      "summary": "Asset-light logistics powerhouse: FY26 standalone revenue Rs. 1,484 Cr (+24.8%), PAT Rs. 49.9 Cr (+5.7%), 42-44% petrochemical logistics market share, TrucksUp platform with 3.68L+ registered trucks targeting breakeven in 2 years, and multimodal/warehousing expansion for margin improvement. Includes competitive moat analysis, peer benchmarking, and relative valuation."
+    },
+    {
+      "symbol": "LUMAXIND",
+      "companyName": "Lumax Industries Limited",
+      "brandName": "Lumax Industries",
+      "period": "Q4 FY26 / FY26",
+      "slug": "LUMAXIND",
+      "updatedAt": "2026-07-15",
+      "summary": "Record FY26: revenue crossed Rs. 4,184 Cr (+23%), EBITDA surged 42.8% to Rs. 412 Cr. LED transition at 61% of revenue with 88% of Rs. 2,200 Cr order book LED-based. Bengaluru plant expansion, ICRA AA- upgrade, and 10.5-11% FY27 margin guidance. Includes competitive moat analysis, peer benchmarking, and relative valuation."
+    },
+    {
+      "symbol": "ARSSBL",
+      "companyName": "Anand Rathi Share and Stock Brokers Limited",
+      "brandName": "Anand Rathi",
+      "period": "Q4 FY26 / FY26",
+      "slug": "ARSSBL",
+      "updatedAt": "2026-07-13",
+      "summary": "Post-IPO transformation from broker to financial platform: non-broking revenue reached 49%, D/E improved from 1.80 to 0.62, PAT grew 25% to Rs. 1,293 Mn, MTF book at Rs. 11,019 Mn with zero NPAs, and insurance distribution commenced. Includes competitive moat analysis, peer benchmarking, and relative valuation."
+    },
+    {
+      "symbol": "KOLTEPATIL",
+      "companyName": "Kolte-Patil Developers Limited",
+      "brandName": "Kolte-Patil / 24K",
+      "period": "Q4 FY26 / FY26",
+      "slug": "KOLTEPATIL",
+      "updatedAt": "2026-07-13",
+      "summary": "Blackstone 40% investment, record collections of Rs. 2,689 Cr, net cash balance sheet of Rs. 503 Cr, and a ~37 Mn Sq. Ft. project portfolio with Rs. 29,300 Cr top-line potential. Includes competitive moat analysis, peer benchmarking, and relative valuation."
+    },
+    {
+      "symbol": "ASAHIINDIA",
+      "companyName": "Asahi India Glass Limited",
+      "brandName": "AIS Glass",
+      "period": "Q4 FY26 / FY26",
+      "slug": "ASAHIINDIA",
+      "updatedAt": "2026-07-12",
+      "summary": "India's dominant automotive glass manufacturer with a structural duopoly, Rs. 4,676 Cr revenue, Rs. 330 Cr PAT, aggressive Rs. 630+ Cr capex cycle, and float glass scaling at +31.6%."
+    },
+    {
+      "symbol": "KMEW",
+      "companyName": "Knowledge Marine & Engineering Works Limited",
+      "brandName": "KMEW",
+      "period": "FY26",
+      "slug": "KMEW",
+      "updatedAt": "2026-07-08",
+      "summary": "Rs. 1,400 Cr order book, 38% EBITDA margin, Rs. 1,075 Cr order wins, green tug contracts worth Rs. 650 Cr, Tonnage Tax advantage, shipbuilding backward integration."
+    },
+    {
+      "symbol": "DCBBANK",
+      "companyName": "DCB Bank Limited",
+      "brandName": "DCB Bank",
+      "period": "Q4 FY26 / FY26",
+      "slug": "DCBBANK",
+      "updatedAt": "2026-07-07",
+      "summary": "Record PAT of \u20b9732 cr, 7-year low NPAs (GNPA 2.45%, NNPA 0.89%), NIM expansion to 3.39% despite 100 bps rate cuts, and highest ROE in 11 years at 12.77%."
+    },
+    {
+      "symbol": "IMPAL",
+      "companyName": "India Motor Parts and Accessories Limited",
+      "brandName": "IMPAL",
+      "period": "FY26",
+      "slug": "IMPAL",
+      "updatedAt": "2026-07-07",
+      "summary": "A 72-year-old debt-free auto parts distributor with Rs 2,001 Cr investment portfolio, Rs 837 Cr revenue, Rs 96.6 Cr PAT, and Rs 33/share dividend."
+    },
+    {
+      "symbol": "ABFRL",
+      "companyName": "Aditya Birla Fashion and Retail Limited",
+      "brandName": "Aditya Birla Fashion & Retail",
+      "period": "Q4 FY26 / FY26",
+      "slug": "ABFRL",
+      "updatedAt": "2026-07-04",
+      "summary": "Pantaloons turnaround (+19% Q4 growth, 14% LTL), ethnic margin expanded 560 bps to 10.8%, TMRW 34% growth with losses narrowing, and luxury retail entry via Galeries Lafayette."
+    },
+    {
+      "symbol": "ABSLAMC",
+      "companyName": "Aditya Birla Sun Life AMC Limited",
+      "brandName": "Aditya Birla Sun Life AMC",
+      "period": "Q4 FY26 / FY26",
+      "slug": "ABSLAMC",
+      "updatedAt": "2026-06-09",
+      "summary": "SIP and retail distribution engine, improving equity performance, passive and alternate expansion, and FY27 yield/TER earnings test."
+    },
+    {
+      "symbol": "AJANTPHARM",
+      "companyName": "Ajanta Pharma Limited",
+      "brandName": "Ajanta Pharma",
+      "period": "Q4 FY26 / FY26",
+      "slug": "AJANTPHARM",
+      "updatedAt": "2026-06-10",
+      "summary": "Selective play formulation engine, record FY26 milestones crossing Rupees five thousand cr. revenue and Rupees one thousand cr. PAT, U.S. generics scaling, Red Sea cargo rerouting recovery, and promoter pledge resolution."
+    },
+    {
+      "symbol": "AKUMS",
+      "companyName": "Akums Drugs and Pharmaceuticals Limited",
+      "brandName": "Akums Drugs",
+      "period": "Q4 FY26 / FY26",
+      "slug": "AKUMS",
+      "updatedAt": "2026-07-03",
+      "summary": "India's largest CDMO: FY26 revenue Rs. 4,359 Cr (+5.8%), EBITDA Rs. 522 Cr (+13.3%), FCF Rs. 958 Cr. EUR 200 Mn European CDMO contract, USD 50 Mn Zambia deal, EU GMP & ANVISA accreditations. Includes moat analysis, CDMO peer benchmarking, and relative valuation."
+    },
+    {
+      "symbol": "ASHIANA",
+      "companyName": "Ashiana Housing Limited",
+      "brandName": "Ashiana Housing",
+      "period": "Q4 FY26 / FY26",
+      "slug": "ASHIANA",
+      "updatedAt": "2026-06-21",
+      "summary": "FY26 revenue more than doubled to Rs. 1,187 Cr (+113%), PAT surged 6.5x to Rs. 118 Cr (+546%), Aaroham Gurugram launch generated Rs. 833 Cr bookings, senior living at all-time high with Rs. 570 Cr bookings, Rs. 5,897 Cr locked-in revenue pipeline."
+    },
+    {
+      "symbol": "ATHERENERG",
+      "companyName": "Ather Energy Limited",
+      "brandName": "Ather Energy",
+      "period": "Q4 FY26 / FY26",
+      "slug": "ATHERENERG",
+      "updatedAt": "2026-06-11",
+      "summary": "Rizta family scooter volume explosion (75% share), 66% FY26 volume growth to 262.5k units, Q4 EBITDA loss narrowing to -2.0% near breakeven, and EL mass-market platform pivot."
+    },
+    {
+      "symbol": "ATLANTAELE",
+      "companyName": "Atlanta Electricals Limited",
+      "brandName": "Atlanta Electricals",
+      "period": "Q4 FY26 / FY26",
+      "slug": "ATLANTAELE",
+      "updatedAt": "2026-06-17",
+      "summary": "A story-led research pack on Atlanta Electricals' FY26 results: revenue grew 48.8% to Rs. 1,851.52 Cr, Net Profit rose 70.1% to Rs. 201.77 Cr. Operating efficiency drove EBITDA margins to 18.60%, Net Working Capital down to 48 days, and Debt-to-Equity compressed to 0.05x. A \u20b9180 Cr capex program is underway for Unit 6 IDT and backward integration."
+    },
+    {
+      "symbol": "AUROPHARMA",
+      "companyName": "Aurobindo Pharma Limited",
+      "brandName": "Aurobindo Pharma",
+      "period": "Q4 FY26 / FY26",
+      "slug": "AUROPHARMA",
+      "updatedAt": "2026-06-10",
+      "summary": "A story-led research pack on Aurobindo's Q4 FY26 / FY26 results, Pen-G backward integration, CuraTeQ biosimilars, TheraNym biologics CDMO, and Lannett acquisition progress."
+    },
+    {
+      "symbol": "AZAD",
+      "companyName": "Azad Engineering Limited",
+      "brandName": "Azad Engineering",
+      "period": "Q4 FY26 / FY26",
+      "slug": "AZAD",
+      "updatedAt": "2026-07-03",
+      "summary": "Qualification-led precision engineering story, Rs. 6,500 crore plus order book, dedicated OEM facility ramp, MHI hot-section win, competitive moat analysis, peer benchmarking, and FY27 cash-conversion test."
+    },
+    {
+      "symbol": "BBL",
+      "companyName": "Bharat Bijlee Limited",
+      "brandName": "Bharat Bijlee",
+      "period": "Q4 FY26 / FY26",
+      "slug": "BBL",
+      "updatedAt": "2026-06-22",
+      "summary": "80-year electrical engineering brand: FY26 revenue Rs. 2,274 Cr (+20%), PAT Rs. 120 Cr (-10%) as EBITDA margins compressed to 7.2%, Power Systems at Rs. 1,384 Cr (+21%), Rs. 35/share dividend maintained, and India's power T&D capex cycle providing multi-year tailwind."
+    },
+    {
+      "symbol": "BEARINGS-COMPARE",
+      "companyName": "Timken India vs NRB Bearings vs Menon Bearings",
+      "brandName": "Bearings Comparative Study",
+      "period": "Q4 FY26 / FY26",
+      "slug": "BEARINGS-COMPARE",
+      "updatedAt": "2026-06-09",
+      "summary": "The bearing basket has three different bets: Timken for scale, NRB for diversification, Menon for high-margin small-cap growth."
+    },
+    {
+      "symbol": "BLISSGVS",
+      "companyName": "Bliss GVS Pharma Limited",
+      "brandName": "Bliss GVS",
+      "period": "Q4 FY26 / FY26",
+      "slug": "BLISSGVS",
+      "updatedAt": "2026-06-10",
+      "summary": "A story-led research pack on Bliss GVS's FY26 results, Greenlife Bliss Nigeria stake divestment, Theralife Kenya & Congo expansions, and EBITDA margin breakout"
+    },
+    {
+      "symbol": "BOSCHLTD",
+      "companyName": "Bosch Limited",
+      "brandName": "Bosch Limited",
+      "period": "Q4 FY26 / FY26",
+      "slug": "BOSCHLTD",
+      "updatedAt": "2026-06-10",
+      "summary": "FY26 mobility growth, RBIC chassis acquisition, Tata eAxle JV, TSF air-systems JV, and FY27 content-per-vehicle execution test."
+    },
+    {
+      "symbol": "CARRARO",
+      "companyName": "Carraro India Limited",
+      "brandName": "Carraro India",
+      "period": "Q4 FY26 / FY26",
+      "slug": "CARRARO",
+      "updatedAt": "2026-06-22",
+      "summary": "Off-highway driveline leader: FY26 revenue Rs. 2,284 Cr (+25%), PAT Rs. 130.6 Cr (+48%), construction equipment pivot to 43.6% of mix, exports surged 37% to Rs. 812 Cr, and Rs. 17.5 Cr e-transmission JDA with Montra Electric."
+    },
+    {
+      "symbol": "CEIGALL",
+      "companyName": "Ceigall India Limited",
+      "brandName": "Ceigall India",
+      "period": "Q4 FY26 / FY26",
+      "slug": "CEIGALL",
+      "updatedAt": "2026-06-09",
+      "summary": "Execution pipeline, Rs. 18,554 crore order book, renewables/BESS diversification, HAM monetization, and working-capital discipline."
+    },
+    {
+      "symbol": "CPPLUS",
+      "companyName": "Aditya Infotech Limited",
+      "brandName": "CP PLUS",
+      "period": "Q4 FY26 / FY26",
+      "slug": "CPPLUS",
+      "updatedAt": "2026-06-08",
+      "summary": "STQC-led market consolidation, component-cost inflation, backward integration, and FY27 guidance reset."
+    },
+    {
+      "symbol": "DELHIVERY",
+      "companyName": "Delhivery Limited",
+      "brandName": "Delhivery",
+      "period": "Q4 FY26 / FY26",
+      "slug": "DELHIVERY",
+      "updatedAt": "2026-06-13",
+      "summary": "Free cash flow inflection: turned FCF positive at Rs. 89 Cr in FY26, crossed Rs. 10,000 Cr revenue and 1 billion orders, with NWC compressed from 38 to 11 days and PTL margins doubling."
+    },
+    {
+      "symbol": "EICHERMOT",
+      "companyName": "Eicher Motors Limited",
+      "brandName": "Eicher Motors / Royal Enfield",
+      "period": "Q4 FY26 / FY26",
+      "slug": "EICHERMOT",
+      "updatedAt": "2026-06-14",
+      "summary": "Royal Enfield crossed 1.2M annual sales (+22.4%), VECV hit 1L units for first time, group revenue crossed Rs. 50,000 Cr, Flying Flea EV launched, and Volvo financing JV announced."
+    },
+    {
+      "symbol": "EMCURE",
+      "companyName": "Emcure Pharmaceuticals Limited",
+      "brandName": "Emcure",
+      "period": "Q4 FY26 / FY26",
+      "slug": "EMCURE",
+      "updatedAt": "2026-06-10",
+      "summary": "A story-led research pack on Emcure's FY26 performance, key global licensing alliances, Zuventus consolidation, and R&D pipeline progress"
+    },
+    {
+      "symbol": "ENDURANCE",
+      "companyName": "Endurance Technologies Limited",
+      "brandName": "Endurance Tech",
+      "period": "Q4 FY26 / FY26",
+      "slug": "ENDURANCE",
+      "updatedAt": "2026-06-11",
+      "summary": "Rs. 300 Cr/annum EV battery pack order win at Talegaon, Rs. 56 Cr/annum Maxwell BMS wins, and Rs. 513 Cr/annum peak potential AURIC Shendra casting facility."
+    },
+    {
+      "symbol": "ENGINERSIN",
+      "companyName": "Engineers India Limited",
+      "brandName": "Engineers India",
+      "period": "Q4 FY26 / FY26",
+      "slug": "ENGINERSIN",
+      "updatedAt": "2026-06-17",
+      "summary": "A short-term trader's pack: 4 key levels (support 225, resistance 245), cheap valuation at 18.9x PE vs peers at 25x+, record Rs. 15,109 cr order book, Africa catalyst framework, and 1:2.5+ risk-reward trade setup."
+    },
+    {
+      "symbol": "GABRIEL",
+      "companyName": "Gabriel India Limited",
+      "brandName": "Gabriel India",
+      "period": "Q4 FY26 / FY26",
+      "slug": "GABRIEL",
+      "updatedAt": "2026-06-09",
+      "summary": "NCLT-approved group demerger, sunroof capacity expansion to 400k units, precision fasteners and ZIC lubricants JVs, and new mobility exports."
+    },
+    {
+      "symbol": "GMRAIRPORT",
+      "companyName": "GMR Airports Limited",
+      "brandName": "GMR Airports",
+      "period": "Q4 FY26 / FY26",
+      "slug": "GMRAIRPORT",
+      "updatedAt": "2026-06-14",
+      "summary": "A story-led research pack on GMR Airports' FY26 turnaround: record EBITDA of INR 6,150 Cr (+47% YoY), first consolidated PAT in a decade at INR 472 Cr, CP4 tariff reset driving 178% aero revenue surge at Delhi Airport, and INR 34,000 Cr net debt overhang."
+    },
+    {
+      "symbol": "GTLINFRA",
+      "companyName": "GTL Infrastructure Limited",
+      "brandName": "GTL Infra",
+      "period": "Q4 FY26 / FY26",
+      "slug": "GTLINFRA",
+      "updatedAt": "2026-06-09",
+      "summary": "Debt-resolution bounce, FY26 exceptional profit quality, passive telecom tower utilization, and going-concern cash-flow test."
+    },
+    {
+      "symbol": "HFCL",
+      "companyName": "HFCL Limited",
+      "brandName": "HFCL",
+      "period": "Q4 FY26 / FY26",
+      "slug": "HFCL",
+      "updatedAt": "2026-06-13",
+      "summary": "USD 1.1B hyperscaler OFC deal, record \u20b921,206 Cr order book, defence aerospace acquisition with \u20b91,930 Cr export order book, preform \u20b9580 Cr backward integration, and EBITDA margin expansion to 16.7%."
+    },
+    {
+      "symbol": "IKS",
+      "companyName": "Inventurus Knowledge Solutions Limited",
+      "brandName": "IKS Health",
+      "period": "Q4 FY26 / FY26",
+      "slug": "IKS",
+      "updatedAt": "2026-06-23",
+      "summary": "Healthcare enablement platform: FY26 revenue INR 3,194 Cr (+20%), PAT INR 722 Cr (+48%), 34.2% EBITDA margin, AI-native agentic platform pivot, TruBridge acquisition pending targeting INR 3,000 Cr EBITDA by FY30."
+    },
+    {
+      "symbol": "INDSWFTLAB",
+      "companyName": "Ind-Swift Laboratories Limited",
+      "brandName": "Ind-Swift Labs",
+      "period": "Q4 FY26 / FY26",
+      "slug": "INDSWFTLAB",
+      "updatedAt": "2026-06-10",
+      "summary": "Transitioning to a debt-free API platform after selling its API business division to Bain-Piramal to retire Rupees four hundred and twenty-five crore debt."
+    },
+    {
+      "symbol": "INDUSINDBK",
+      "companyName": "IndusInd Bank Limited",
+      "brandName": "IndusInd Bank",
+      "period": "Q4 FY26 / FY26",
+      "slug": "INDUSINDBK",
+      "updatedAt": "2026-07-04",
+      "summary": "Private sector bank navigating NIM pressure with volume-led growth: FY26 advances grew ~12%, fee income mid-teens, NIM compressed ~15-20 bps. Vehicle finance franchise, Bharat Financial microfinance distribution, 12M+ credit cards, and phygital banking pivot. Includes competitive moat analysis and peer benchmarking."
+    },
+    {
+      "symbol": "INOXINDIA",
+      "companyName": "INOX India Limited",
+      "brandName": "INOXCVA",
+      "period": "Q4 FY26 / FY26",
+      "slug": "INOXINDIA",
+      "updatedAt": "2026-06-09",
+      "summary": "Cryogenic equipment platform, LNG/aerospace/Cryo Scientific order visibility, Kandla capacity expansion, and project-mix cash conversion test."
+    },
+    {
+      "symbol": "IPCALAB",
+      "companyName": "Ipca Laboratories Limited",
+      "brandName": "Ipca",
+      "period": "Q4 FY26 / FY26",
+      "slug": "IPCALAB",
+      "updatedAt": "2026-06-21",
+      "summary": "FY26 consolidated revenue Rs. 9,646 Cr (+8%), PAT Rs. 1,141 Cr (+55%), net debt slashed 79% to Rs. 139 Cr, Tarapur USFDA VAI cleared, Wardha plant commissioned, Bhami biologics licensing deal signed. Includes moat analysis and peer benchmarking."
+    },
+    {
+      "symbol": "JBCHEPHARM",
+      "companyName": "J.B. Chemicals & Pharmaceuticals Limited",
+      "brandName": "JB Pharma",
+      "period": "Q4 FY26 / FY26",
+      "slug": "JBCHEPHARM",
+      "updatedAt": "2026-06-13",
+      "summary": "A story-led research pack on JB Pharma's post-acquisition operational realignment, branded business acceleration, and CDMO execution focus"
+    },
+    {
+      "symbol": "KERNEX",
+      "companyName": "Kernex Microsystems (India) Limited",
+      "brandName": "Kernex Microsystems",
+      "period": "Q4 FY26 / FY26",
+      "slug": "KERNEX",
+      "updatedAt": "2026-06-09",
+      "summary": "RDSO Kavach Version 4.0 approval, large railway safety order book, FY26 execution inflection, and working-capital cash test."
+    },
+    {
+      "symbol": "KRISHNADEF",
+      "companyName": "Krishna Defence and Allied Industries Limited",
+      "brandName": "Krishna Defence",
+      "period": "Q4 FY26 / FY26",
+      "slug": "KRISHNADEF",
+      "updatedAt": "2026-06-09",
+      "summary": "FY26 margin breakout, Rs. 103 crore order book, naval component base, VABO composite JV, AUV optionality, PLI steel, and smart ammunition investment."
+    },
+    {
+      "symbol": "KRN",
+      "companyName": "KRN Heat Exchanger and Refrigeration Limited",
+      "brandName": "KRN Heat Exchanger",
+      "period": "Q4 FY26 / FY26",
+      "slug": "KRN",
+      "updatedAt": "2026-06-13",
+      "summary": "6x Neemrana plant capacity expansion, 8 new product lines, data center scaling with Vertiv vendor approvals, and Rs. 500 crore QIP enabling resolution."
+    },
+    {
+      "symbol": "MENONBE",
+      "companyName": "Menon Bearings Limited",
+      "brandName": "Menon Bearings",
+      "period": "Q4 FY26 / FY26",
+      "slug": "MENONBE",
+      "updatedAt": "2026-06-09",
+      "summary": "Menon Bearings is the small-cap high-margin play: FY26 showed sharp growth, but the key test is whether exports, new parts and capacity can carry it toward Rs. 500 crore by FY28."
+    },
+    {
+      "symbol": "MUFIN",
+      "companyName": "Mufin Green Finance Limited",
+      "brandName": "Mufin Green Finance",
+      "period": "Q4 FY26 / FY26",
+      "slug": "MUFIN",
+      "updatedAt": "2026-06-14",
+      "summary": "Mufin Green Finance crossed Rs. 1,541 Cr AUM (+84% YoY), PAT doubled to Rs. 28.2 Cr (+39%), credit rating upgraded to A-, and management guided Rs. 80-90 Cr PAT in FY27."
+    },
+    {
+      "symbol": "MAXHEALTH",
+      "companyName": "Max Healthcare Institute Limited",
+      "brandName": "Max Healthcare",
+      "period": "Q4 FY26 / FY26",
+      "slug": "MAXHEALTH",
+      "updatedAt": "2026-06-29",
+      "summary": "Max Healthcare delivered FY26 gross revenue Rs. 10,538 Cr (+16%), PAT Rs. 1,631 Cr (+22%), 20% brownfield capacity rollout, Kalinga Hospital acquisition, 500-bed Gurgaon greenfield, and 700-bed Lucknow greenfield approved. Includes moat analysis and peer benchmarking."
+    },
+    {
+      "symbol": "NAZARA",
+      "companyName": "Nazara Technologies Limited",
+      "brandName": "Nazara Technologies",
+      "period": "Q4 FY26 / FY26",
+      "slug": "NAZARA",
+      "updatedAt": "2026-06-28",
+      "summary": "FY26 EBITDA grew 66% to INR 255 Cr (13.9% margin) with 84% OCF conversion. Evolving into a global multi-IP gaming operating system, with upcoming pro-forma M&A (Bluetile & BestPlay) set to double EBITDA."
+    },
+    {
+      "symbol": "NETWEB",
+      "companyName": "Netweb Technologies India Limited",
+      "brandName": "Netweb Technologies",
+      "period": "Q4 FY26 / FY26",
+      "slug": "NETWEB",
+      "updatedAt": "2026-06-12",
+      "summary": "AI systems grew 459.6% to 43.4% of FY26 revenue, with Rs. 2,400 crore FY27 opening order book including L1, Vertiv liquid-cooling collaboration, and FY27 order-conversion test."
+    },
+    {
+      "symbol": "NGLFINE",
+      "companyName": "NGL Fine-Chem Limited",
+      "brandName": "NGL Fine-Chem",
+      "period": "Q4 FY26 / FY26",
+      "slug": "NGLFINE",
+      "updatedAt": "2026-06-10",
+      "summary": "A story-led research pack on NGL Fine-Chem's FY26 volume-led recovery, Fluralaner launch, Greenfield capex delays, and EU/US regulatory pipeline"
+    },
+    {
+      "symbol": "NH",
+      "companyName": "Narayana Hrudayalaya Limited",
+      "brandName": "Narayana Health",
+      "period": "Q4 FY26 / FY26",
+      "slug": "NH",
+      "updatedAt": "2026-06-10",
+      "summary": "Consolidated revenue rose 44% in FY26, driven by mature-market technology arbitrage via the UK Practice Plus Group acquisition and Cayman Integrated Care scaling."
+    },
+    {
+      "symbol": "NRBBEARING",
+      "companyName": "NRB Bearings Limited",
+      "brandName": "NRB Bearings",
+      "period": "Q4 FY26 / FY26",
+      "slug": "NRBBEARING",
+      "updatedAt": "2026-06-09",
+      "summary": "NRB is turning from a restored automotive bearing franchise into a diversified industrial and aerospace friction-solutions platform."
+    },
+    {
+      "symbol": "PHARMA-COMPARE",
+      "companyName": "Ajanta vs Akums vs SMS vs Senores vs Ind-Swift vs Sakar",
+      "brandName": "Pharma & CDMO Basket Peer Study",
+      "period": "Q4 FY26 / FY26",
+      "slug": "PHARMA-COMPARE",
+      "updatedAt": "2026-06-10",
+      "summary": "Comparative peer study of six pharmaceutical and contract manufacturing companies: Ajanta chronic compounding, Akums CDMO scale, Senores U.S. generics and Federal JV, SMS backward integration, Ind-Swift debt-free formulations pivot, and Sakar oncology vials."
+    },
+    {
+      "symbol": "PIRAMALFIN",
+      "companyName": "Piramal Finance Limited",
+      "brandName": "Piramal Finance",
+      "period": "Q4 FY26 / FY26",
+      "slug": "PIRAMALFIN",
+      "updatedAt": "2026-06-10",
+      "summary": "Piramal Finance completed its AUM shift: running down legacy wholesale assets to under 3% of total book, while scaling retail to 85% and securing a pivotal AA+ credit rating upgrade."
+    },
+    {
+      "symbol": "POCL",
+      "companyName": "Pondy Oxides And Chemicals Limited",
+      "brandName": "Pondy Oxides & Chemicals",
+      "period": "Q4 FY26 / FY26",
+      "slug": "POCL",
+      "updatedAt": "2026-06-22",
+      "summary": "Record FY26: revenue Rs. 2,939 Cr (+45%), PAT Rs. 139 Cr (+113%), EBITDA doubled to Rs. 218 Cr with margin 7.4%, copper vertical exploded 12x to Rs. 673 Cr, exports 66% of revenue, and ROCE improved to 17%."
+    },
+    {
+      "symbol": "PRICOLLTD",
+      "companyName": "Pricol Limited",
+      "brandName": "Pricol",
+      "period": "Q4 FY26 / FY26",
+      "slug": "PRICOLLTD",
+      "updatedAt": "2026-07-12",
+      "summary": "FY26 breakout: 51% revenue growth to INR 3,964 Cr, PAT INR 251 Cr, analog-to-digital cluster transition driving 2-3x content-per-vehicle uplift, and EV component creation (BMS, electric pumps). Includes competitive moat analysis and peer benchmarking."
+    },
+    {
+      "symbol": "QPOWER",
+      "companyName": "Quality Power Electrical Equipments Limited",
+      "brandName": "Quality Power",
+      "period": "Q4 FY26 / FY26",
+      "slug": "QPOWER",
+      "updatedAt": "2026-06-09",
+      "summary": "FY26 revenue scale-up, Rs. 1,406 crore order book, BESS/data-center optionality, capacity ramp, and proposed Winwin insulator acquisition."
+    },
+    {
+      "symbol": "RACLGEAR",
+      "companyName": "RACL Geartech Limited",
+      "brandName": "RACL Geartech",
+      "period": "Q4 FY26 / FY26",
+      "slug": "RACLGEAR",
+      "updatedAt": "2026-06-21",
+      "summary": "A story-led research pack on RACL Geartech's FY26 results: first-time Rs. 500 Cr revenue milestone, EBITDA margin expansion to 25.26%, debt halved, and new project wins (Titan, Venus, Crystal, BRP, ZF, Kawasaki) driving FY27 outlook."
+    },
+    {
+      "symbol": "RICOAUTO",
+      "companyName": "Rico Auto Industries Limited",
+      "brandName": "Rico Auto",
+      "period": "Q4 FY26 / FY26",
+      "slug": "RICOAUTO",
+      "updatedAt": "2026-06-18",
+      "summary": "Highest-ever annual revenue of Rs. 2,477.73 Cr, PAT tripled to Rs. 52.42 Cr, Rs. 2,500 Cr new order wins, Hosur EV/hybrid facility opening Sep 2026, and railway/defence diversification targeting Rs. 150 Cr+ in FY27."
+    },
+    {
+      "symbol": "RKFORGE",
+      "companyName": "Ramkrishna Forgings Limited",
+      "brandName": "Ramkrishna Forgings",
+      "period": "Q4 FY26 / FY26",
+      "slug": "RKFORGE",
+      "updatedAt": "2026-06-22",
+      "summary": "India's #2 forging house: Q4 inflection with revenue Rs. 1,217 Cr (+28% YoY), EBITDA margin 17.1% (+220 bps QoQ), 85,000 MT new capacity commissioned, Rail Wheel JV (228K wheels/annum) production from Q1 FY27, and Mexico machining bulk production started."
+    },
+    {
+      "symbol": "RSWM",
+      "companyName": "RSWM Limited",
+      "brandName": "RSWM",
+      "period": "Q4 FY26 / FY26",
+      "slug": "RSWM",
+      "updatedAt": "2026-06-17",
+      "summary": "A story-led research pack on RSWM's FY26 results: net profit swung to Rs. 52 Cr from a loss of Rs. 40 Cr in FY25, supported by Rs. 17.6 Cr power savings, and a Rs. 427 Cr GreenPET bottle-to-bottle project in Ratlam under execution."
+    },
+    {
+      "symbol": "SAKAR",
+      "companyName": "Sakar Healthcare Limited",
+      "brandName": "Sakar Healthcare",
+      "period": "Q4 FY26 / FY26",
+      "slug": "SAKAR",
+      "updatedAt": "2026-06-10",
+      "summary": "Pivoting to oncology formulations with EU GMP-compliant plant, scaling domestic contract manufacturing, and Emerging Markets registrations."
+    },
+    {
+      "symbol": "SANGAMIND",
+      "companyName": "Sangam (India) Limited",
+      "brandName": "Sangam India",
+      "period": "Q4 FY26 / FY26",
+      "slug": "SANGAMIND",
+      "updatedAt": "2026-06-14",
+      "summary": "A story-led research pack on Sangam (India)'s FY26 results: PAT more than doubled to Rs. 83 Cr (+159.7%), exports at all-time high of Rs. 1,167 Cr, working capital halved from 80 to 55 days, and renewable energy scaling to 70%+ of power needs."
+    },
+    {
+      "symbol": "SENORES",
+      "companyName": "Senores Pharmaceuticals Limited",
+      "brandName": "Senores Pharma",
+      "period": "Q4 FY26 / FY26",
+      "slug": "SENORES",
+      "updatedAt": "2026-06-17",
+      "summary": "FY26 revenue crossed Rs. 664 Cr (+62% YoY), PAT doubled to Rs. 122 Cr (+108%), ANDA portfolio doubled from 22 to 51, and three US acquisitions (Apnar, Zoraya, Amerisyn JV) closed in H2 FY26. FY27 guidance: 30-40% revenue, 50-60% PAT growth."
+    },
+    {
+      "symbol": "SHRINGARMS",
+      "companyName": "Shringar House of Mangalsutra Limited",
+      "brandName": "Shringar House of Mangalsutra",
+      "period": "Q4 FY26 / FY26",
+      "slug": "SHRINGARMS",
+      "updatedAt": "2026-06-29",
+      "summary": "India's largest B2B mangalsutra manufacturer: FY26 revenue \u20b92,246 Cr (+57%), PAT \u20b9115.5 Cr (+89%), capacity doubled to 4,000 kg, and strategic entry into the \u20b94.2 lakh crore bridal jewellery market with marquee client partnerships. Includes competitive moat analysis and peer benchmarking."
+    },
+    {
+      "symbol": "SHRIPISTON",
+      "companyName": "SPR Auto Technologies Limited",
+      "brandName": "SPR Auto Technologies",
+      "period": "Q4 FY26 / FY26",
+      "slug": "SHRIPISTON",
+      "updatedAt": "2026-06-11",
+      "summary": "Rebranding to SPR Auto, Antolin interiors acquisition, EV motor scaling, Neemrana capacity expansion, and INR 1,000 crore QIP growth funding."
+    },
+    {
+      "symbol": "SIGNPOST",
+      "companyName": "Signpost India Limited",
+      "brandName": "Signpost India",
+      "period": "Q4 FY26 / FY26",
+      "slug": "SIGNPOST",
+      "updatedAt": "2026-06-29",
+      "summary": "India's #1 DOOH advertising platform: FY26 revenue Rs. 576 Cr (+27%), EBITDA Rs. 147 Cr (+65%), PAT Rs. 70 Cr (+107%), CRISIL A- upgrade, BLR Metro Phase 2 win, and FY27 guidance of >20% growth at 25-27% EBITDA margin."
+    },
+    {
+      "symbol": "SMSPHARMA",
+      "companyName": "SMS Pharmaceuticals Limited",
+      "brandName": "SMS Pharma",
+      "period": "Q4 FY26 / FY26",
+      "slug": "SMSPHARMA",
+      "updatedAt": "2026-06-10",
+      "summary": "Scaling Ibuprofen and API capacity, expanding into complex intermediates and CDMO contracts with a debt-reduction trajectory."
+    },
+    {
+      "symbol": "STYL",
+      "companyName": "Seshaasai Technologies Limited",
+      "brandName": "Seshaasai Tech",
+      "period": "Q4 FY26 / FY26",
+      "slug": "STYL",
+      "updatedAt": "2026-06-12",
+      "summary": "Smart cards market share leader (31.6%) pivoting to high-margin IoT and eSIM solutions (growing 47% YoY), supported by Rs. 600 crore IPO deleveraging that cut finance costs by 39%."
+    },
+    {
+      "symbol": "TIMKEN",
+      "companyName": "Timken India Limited",
+      "brandName": "Timken India",
+      "period": "Q4 FY26 / FY26",
+      "slug": "TIMKEN",
+      "updatedAt": "2026-06-09",
+      "summary": "Timken India is a premium scale-and-capacity story: FY26 crossed a quarterly revenue milestone while Bharuch, rail expansion and GGB integration decide the next leg."
+    },
+    {
+      "symbol": "TRUALT",
+      "companyName": "TruAlt Bioenergy Limited",
+      "brandName": "TruAlt Bioenergy",
+      "period": "Q4 FY26 / FY26",
+      "slug": "TRUALT",
+      "updatedAt": "2026-06-09",
+      "summary": "Ethanol allocation shock, dual-feed utilization recovery, CBG scale-up, SAF optionality, and retail fuel expansion."
+    },
+    {
+      "symbol": "UNOMINDA",
+      "companyName": "UNO Minda Limited",
+      "brandName": "Uno Minda",
+      "period": "Q4 FY26 / FY26",
+      "slug": "UNOMINDA",
+      "updatedAt": "2026-06-13",
+      "summary": "Greenfield EV scaling and premiumization: announced new Rs. 550 Cr CSN powertrain plant, won Rs. 450 Cr/annum lighting and Rs. 390 Cr/annum seating export orders, offsetting temporary alloy wheel penetration headwinds."
+    },
+    {
+      "symbol": "VTL",
+      "companyName": "Vardhman Textiles Limited",
+      "brandName": "Vardhman Textiles",
+      "period": "Q4 FY26 / FY26",
+      "slug": "VTL",
+      "updatedAt": "2026-06-17",
+      "summary": "Spinning margin inflection: yarn spreads recovered from $0.60 to $0.95, 11 million spindles exited the industry, Rs. 3,660 Cr capex nearing completion, and India's strongest textile balance sheet positioned for the upcycle."
+    },
+    {
+      "symbol": "WAAREERTL",
+      "companyName": "Waaree Renewable Technologies Limited",
+      "brandName": "Waaree Renewable Technologies",
+      "period": "Q4 FY26 / FY26",
+      "slug": "WAAREERTL",
+      "updatedAt": "2026-06-27",
+      "summary": "Solar EPC scale story: FY26 revenue INR 3,331 Cr (+108.5%), PAT INR 479 Cr (+109%), 2,727 MWp executed, 2.83 GWp order book, 1,180 MWp O&M portfolio, IPP/BESS diversification, and Waaree Energies parent backing."
+    },
+    {
+      "symbol": "YATHARTH",
+      "companyName": "Yatharth Hospital & Trauma Care Services Limited",
+      "brandName": "Yatharth Hospitals",
+      "period": "Q4 FY26 / FY26",
+      "slug": "YATHARTH",
+      "updatedAt": "2026-06-14",
+      "summary": "Revenue crossed Rs. 1,200 Cr (+36% YoY), PAT Rs. 170 Cr (+30%), adjusted EBITDA margin 28.5%, bed capacity doubled to 2,555+, 5,000-bed target, and Gurugram hospital acquired."
+    },
+    {
+      "symbol": "BLUESTONE",
+      "companyName": "BlueStone Jewellery and Lifestyle Limited",
+      "brandName": "BlueStone",
+      "period": "Q4 FY26 / FY26",
+      "slug": "BLUESTONE",
+      "updatedAt": "2026-06-28",
+      "summary": "India's #2 digital-first omnichannel jewellery brand: FY26 revenue Rs. 24,412 Cr (+38%), Pre-IND AS EBITDA margin 7.4% (from 1%), 340 stores across 134 cities, 34% SSSG, and a design-led vertically integrated model gaining share in a largely unorganized $80-90B market."
+    },
+    {
+      "symbol": "PAYTM",
+      "companyName": "One 97 Communications Limited",
+      "brandName": "Paytm",
+      "period": "Q4 FY26 / FY26",
+      "slug": "PAYTM",
+      "updatedAt": "2026-06-28",
+      "summary": "First full-year profit: FY26 revenue Rs. 8,437 Cr (+22%), EBITDA Rs. 502 Cr (6% margin), PAT Rs. 552 Cr. Financial services distribution grew 52%, payment margin expanded to >4 bps, regulatory overhangs cleared, and AI-led operating leverage driving cost structure improvement."
+    },
+    {
+      "symbol": "INOXGREEN",
+      "companyName": "Inox Green Energy Services Limited",
+      "brandName": "Inox Green Energy",
+      "period": "Q4 FY26 / FY26",
+      "slug": "INOXGREEN",
+      "updatedAt": "2026-06-29",
+      "summary": "India's only listed pure-play renewable O&M company: FY26 total income Rs. 426 Cr (+69%), EBITDA Rs. 210 Cr (+71%), PAT Rs. 103 Cr (+373%), 13+ GWp O&M portfolio, 6.5 GW acquisitions from bankrupt OEMs, demerger of evacuation infrastructure into IRSL approved, and FY27 EBITDA guidance of Rs. 600+ Cr."
+    },
+    {
+      "symbol": "HBLENGINE",
+      "companyName": "HBL Engineering Limited",
+      "brandName": "HBL Engineering",
+      "period": "Q4 FY26 / FY26",
+      "slug": "HBLENGINE",
+      "updatedAt": "2026-06-29",
+      "summary": "FY26 breakout: revenue surged 67% to Rs. 3,252 Cr, PAT nearly tripled to Rs. 797 Cr. Electronics segment exploded 476% to Rs. 1,626 Cr driven by Kavach train protection, railway signalling, and defence electronics orders. Cash balance Rs. 528 Cr with near-debt-free balance sheet."
+    },
+    {
+      "symbol": "SAMMAANCAP",
+      "companyName": "Sammaan Capital Limited",
+      "brandName": "Sammaan Capital",
+      "period": "Q4 FY26 / FY26",
+      "slug": "SAMMAANCAP",
+      "updatedAt": "2026-07-03",
+      "summary": "Cleanest HFC book with zero NPAs, USD 1 Bn+ IHC strategic investment, AA+ rating upgrades, and a FY30 roadmap targeting \u20b91,94,000 Cr AUM and 18.7% ROE."
+    },
+    {
+      "symbol": "ARMANFIN",
+      "companyName": "Arman Financial Services Limited",
+      "brandName": "Arman Financial",
+      "period": "Q4 FY26 / FY26",
+      "slug": "ARMANFIN",
+      "updatedAt": "2026-07-04",
+      "summary": "Record consolidated AUM of Rs. 2,728 Cr (+22%), quarterly disbursements of Rs. 951 Cr. Q4 consolidated PAT grew 220% YoY to Rs. 41.0 Cr. Shifting from group JLG microfinance to individual household cash flow underwriting, and separated credit & recovery teams. Covered by CGFMU, with standalone MSME footprint expanding into Uttar Pradesh. Includes competitive moat, peer comparison, and relative valuation scenarios."
+    },
+    {
+      "symbol": "NAHARINDUS",
+      "companyName": "Nahar Industrial Enterprises Limited",
+      "brandName": "Nahar Industrial Enterprises",
+      "period": "FY26 (year ended March 31, 2026)",
+      "slug": "NAHARINDUS",
+      "updatedAt": "2026-07-06",
+      "summary": "Textile contraction masked by sugar & property income surge: FY26 PAT surged 164% to Rs. 54 Cr despite 10% textile revenue decline. Includes competitive moat analysis, peer benchmarking, and relative valuation."
+    },
+    {
+      "symbol": "RAJRATAN",
+      "companyName": "Rajratan Global Wire Limited",
+      "brandName": "Rajratan Global Wire",
+      "period": "FY26 (year ended March 31, 2026)",
+      "slug": "RAJRATAN",
+      "updatedAt": "2026-07-06",
+      "summary": "Record volumes of 1,33,615 MT (+18%) drove 24% revenue growth to Rs. 1,156 Cr, but EBITDA margin compressed 150 bps to 12.1% on wire rod inflation and energy cost spikes. Includes competitive moat analysis, peer benchmarking, and relative valuation."
+    },
+    {
+      "symbol": "SCHAEFFLER",
+      "companyName": "Schaeffler India Limited",
+      "brandName": "Schaeffler India",
+      "period": "Q1 CY26",
+      "slug": "SCHAEFFLER",
+      "updatedAt": "2026-07-07",
+      "summary": "Q1 CY26 revenue grew 18.9% YoY to Rs. 2,586 Cr led by Auto (+31%) & Exports (+33%). Consolidated EBITDA margin stood at 19.1%. KRSV (Koovers) contributed Rs. 78.7 Cr revenue at -13.4% EBITDA. Includes 80% localization moat, bearing peers benchmarking, and relative valuation."
+    },
+    {
+      "symbol": "HLEGLAS",
+      "companyName": "HLE Glascoat Limited",
+      "brandName": "HLE Glascoat",
+      "period": "Q4 FY26 / FY26",
+      "slug": "HLEGLAS",
+      "updatedAt": "2026-07-08",
+      "summary": "Rs. 1,353 Cr revenue (+31.7% YoY), Rs. 681.6 Cr order book, Omeras acquisition integration, path to Rs. 2,000 Cr target."
+    },
+    {
+      "symbol": "FEDFINA",
+      "companyName": "Fedbank Financial Services Limited",
+      "brandName": "Fedfina",
+      "period": "Q4 FY26 / FY26",
+      "slug": "FEDFINA",
+      "updatedAt": "2026-07-09",
+      "summary": "Twin-engine gold and mortgage NBFC: AUM crossed Rs. 20,000 Cr (+27.5%), PAT surged 53% to Rs. 344 Cr, gold loan AUM grew 76% to Rs. 10,352 Cr, credit cost halved to 0.8%, and quarterly PAT crossed Rs. 100 Cr milestone. Includes competitive moat analysis and peer benchmarking."
+    },
+    {
+      "symbol": "ASKAUTOLTD",
+      "companyName": "ASK Automotive Limited",
+      "brandName": "ASK Automotive",
+      "period": "Q4 FY26 / FY26",
+      "slug": "ASKAUTOLTD",
+      "updatedAt": "2026-07-08",
+      "summary": "ALPS segment overtakes braking as largest revenue contributor (50.8% of mix), Rs. 4,196 Cr total income (+16.2%), EBITDA margin improved 84 bps to 13.1%, new alloy wheel and sunroof JVs target H2 FY27 revenue, and valuation discount vs peers at ~30x P/E."
+    },
+    {
+      "symbol": "RAMRAT",
+      "companyName": "Ram Ratna Wires Limited",
+      "brandName": "Ram Ratna Wires",
+      "period": "FY26 (year ended March 31, 2026)",
+      "slug": "RAMRAT",
+      "updatedAt": "2026-07-09",
+      "summary": "Revenue crossed Rs. 5,000 Cr at Rs. 5,177 Cr (+41% YoY), EBITDA doubled to Rs. 263.6 Cr (+69%), copper tubes share surged from 14% to 22%, ROCE at 25%. Net debt rose 2.4x to Rs. 310 Cr. FY27 hinges on IGT commercialisation and margin expansion."
+    },
+    {
+      "symbol": "ROSSTECH",
+      "companyName": "Rossell Techsys Limited",
+      "brandName": "Rossell Techsys",
+      "period": "Q4 FY26 / FY26",
+      "slug": "ROSSTECH",
+      "updatedAt": "2026-07-09",
+      "summary": "FY26 revenue doubled to Rs. 485 Cr (+87% YoY), EBITDA more than doubled to Rs. 66.6 Cr (+73%), Rs. 3,000 Cr+ strategic contracts, semi-conductor and space verticals ramping, evaluating commercial aerospace entry."
+    },
+    {
+      "symbol": "SSWL",
+      "companyName": "Steel Strips Wheels Limited",
+      "brandName": "Steel Strips Wheels",
+      "period": "Q4 FY26 / FY26",
+      "slug": "SSWL",
+      "updatedAt": "2026-07-12",
+      "summary": "Record FY26 revenue of Rs. 5,183 Cr (+17%), EBITDA Rs. 523 Cr, EV scooter wheel monopoly (80% market share), Rs. 500 Cr Bhuj aluminum expansion, FY27 revenue guidance of Rs. 6,500 Cr, and 18.8x P/E \u2014 half of peer median."
+    },
+    {
+      "symbol": "AVANTEL",
+      "companyName": "Avantel Limited",
+      "brandName": "Avantel",
+      "period": "Q1 FY27 / FY26",
+      "slug": "AVANTEL",
+      "updatedAt": "2026-07-12",
+      "summary": "Q1 FY27 revenue Rs. 70 Cr (+35% YoY), PAT Rs. 7.6 Cr (+65% YoY), landmark Rs. 84 Cr SATCOM order from Zetwerk, EBITDA margin expanding to 27.3%, trailing PE of 300x."
+    },
+    {
+      "symbol": "GARUDA",
+      "companyName": "Garuda Construction and Engineering Limited",
+      "brandName": "Garuda Construction",
+      "period": "FY26 (year ended March 31, 2026)",
+      "slug": "GARUDA",
+      "updatedAt": "2026-07-13",
+      "summary": "Post-IPO scale inflection: FY26 revenue surged 136% to Rs. 531 Cr, PAT tripled to Rs. 123 Cr, Rs. 3,461 Cr order book providing 6.5x revenue visibility, and debt-free balance sheet with asset-light model delivering ~31% EBITDA margin. Includes competitive moat analysis, peer benchmarking, and relative valuation."
+    },
+    {
+      "symbol": "TATATECH",
+      "companyName": "Tata Technologies Limited",
+      "brandName": "Tata Technologies",
+      "period": "Q4 FY26 / FY26",
+      "slug": "TATATECH",
+      "updatedAt": "2026-07-13",
+      "summary": "Q4 FY26 inflection: 12.4% CC revenue growth QoQ, 16.0% EBITDA margin (+200 bps), Full-Vehicle Program wins with Japanese and European OEMs, ES-Tec acquisition synergies, Chromosome AI platform, net cash of Rs. 1,188 Cr. Includes competitive moat analysis, peer benchmarking, and relative valuation."
+    },
+    {
+      "symbol": "ARTEMISMED",
+      "companyName": "Artemis Medicare Services Limited",
+      "period": "Q4 FY26 / FY26",
+      "slug": "ARTEMISMED",
+      "updatedAt": "2026-07-17",
+      "summary": "Premium NCR hospital chain: 15.4% rev growth to \u20b91,081 Cr, 20.2% EBITDA margin, 30% revenue from international patients, expanding from 800 to 2,000 beds by 2029."
+    },
+    {
+      "symbol": "HOMEFIRST",
+      "companyName": "Home First Finance Company India Limited",
+      "brandName": "Home First Finance",
+      "period": "Q4 FY26 / FY26",
+      "slug": "HOMEFIRST",
+      "updatedAt": "2026-07-22",
+      "summary": "Tech-led affordable housing finance franchise: AUM crossed Rs. 15,878 Cr (+25% YoY), PAT surged 41.4% to Rs. 540 Cr, Q4 disbursements hit a record Rs. 1,572 Cr, GNPA improved 20bps to 1.8%, and CRAR strengthened to 44.1% post-Rs. 1,250 Cr QIP. Includes competitive moat analysis (AI underwriting, distribution, data network effect), peer benchmarking vs AAVAS/APTUS/CANFINHOME/LICHSGFIN, and relative valuation analysis."
+    }
+  ]
+}
