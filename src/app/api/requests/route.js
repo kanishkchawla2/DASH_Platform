@@ -1,6 +1,7 @@
 import { auth } from '@/lib/auth';
-import { createRequest, getRequestsByUser, getUsage, incrementUsage } from '@/lib/db';
+import { createRequest, getRequestsByUser, getUsage, incrementUsage, getUserById } from '@/lib/db';
 import { nanoid } from 'nanoid';
+import { sendNotification } from '@/lib/mail';
 
 const FREE_REPORT_LIMIT = 5;
 
@@ -47,6 +48,14 @@ export async function POST(req) {
   });
 
   incrementUsage(session.user.id);
+
+  sendNotification({
+    symbol: cleanSymbol,
+    userEmail: session.user.email,
+    userName: session.user.name,
+    notes,
+    requestId: id,
+  }).catch(err => console.error('[Mail] Failed:', err.message));
 
   return Response.json({
     success: true,
